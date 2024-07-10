@@ -296,4 +296,12 @@
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x5Cb5249d420639619fFd637C79f0AA5C0a9FcD4B/logo.png"
   }
+    {
+    "name": "Cuckold Coin",
+    "address": "0xF8eE22701a5A4AAb18fc90d21208414F324f0b93",
+    "symbol": "CCD",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://github.com/sushiswap/list/tree/ccd/logos/token-logos/network/thundercore/0xda7F451bC066f6c63db37974024C66d9D638B699.jpg"
+  }
 ]
